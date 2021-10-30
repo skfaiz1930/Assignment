@@ -389,7 +389,7 @@ nav .mainMenu .closeMenu {
 
   nav .mainMenu {
     display: none;
-    height: 100%;
+    height: 80%;
     position: fixed;
     top: 0;
     right: 0;
