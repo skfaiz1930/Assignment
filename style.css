@@ -400,7 +400,7 @@ nav .mainMenu .closeMenu {
     align-items: center;
     background: rgba(15, 13, 180, 0.7);
     transition: top 1s ease;
-    
+    overflow:hidden;
   }
   nav .mainMenu .closeMenu {
     display: block;
